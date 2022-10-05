@@ -10,4 +10,4 @@ FlexMeasures is part of [the Linux Energy Foundation](https://www.lfenergy.org/)
 
 There is more documentation in [the main FlexMeasures repository](https://github.com/FlexMeasures/flexmeasures). That is probably where you want to head first. Or head right to [our ReadTheDocs page](https://flexmeasures.readthedocs.io).
 
-Here, you'll also find other repositories which support the project, like the website, notes about the governance (TSC for "Technical Steering Committee) or plugin template tooling.
+Here, you'll also find other repositories which support the project, like the website, notes concerning the governance (e.g. our code of conduct ― look for TSC, which stands for "Technical Steering Committee") or plugin template tooling.
